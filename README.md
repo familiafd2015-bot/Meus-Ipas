@@ -1,4 +1,4 @@
-# 🎮 Meus IPAs - Fonte AltStore
+# 🎮 Meus IPAs - Fonte AltStore PAL
 
 Fonte pessoal para o AltStore PAL.
 
@@ -7,7 +7,7 @@ Fonte pessoal para o AltStore PAL.
 Adicione esta URL como fonte no AltStore PAL:
 
 ```
-https://raw.githubusercontent.com/familiafd2015-bot/meusipas/main/altstore-source.json
+https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/altstore-source.json
 ```
 
 ## Apps disponíveis
