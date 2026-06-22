@@ -1,0 +1,29 @@
+{
+  "name": "Meus IPAs",
+  "identifier": "com.familiafd2015-bot.meusipas",
+  "subtitle": "Minha fonte pessoal de apps",
+  "description": "Fonte pessoal do AltStore com meus IPAs.",
+  "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meusipas/main/icon.png",
+  "tintColor": "#6C5CE7",
+  "apps": [
+    {
+      "name": "Cuphead",
+      "bundleIdentifier": "com.cuphead.mobile",
+      "developerName": "Studio MDHR",
+      "subtitle": "Cuphead para iOS",
+      "localizedDescription": "Cuphead é um jogo de ação clássico estilo run and gun, focado em batalhas contra chefes. Inspirado nos desenhos animados dos anos 1930, o jogo apresenta visuais desenhados à mão, aquarelas e trilha sonora de jazz original.",
+      "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meusipas/main/icons/cuphead.png",
+      "tintColor": "#E74C3C",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-06-21T22:00:00-03:00",
+          "localizedDescription": "Versão inicial.",
+          "downloadURL": "https://github.com/familiafd2015-bot/meusipas/releases/download/v1.0/Cuphead.ipa",
+          "size": 2229713904
+        }
+      ]
+    }
+  ]
+}
