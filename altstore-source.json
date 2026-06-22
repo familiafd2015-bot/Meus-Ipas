@@ -2,8 +2,8 @@
     "name": "Meus IPAs",
     "subtitle": "Minha fonte pessoal de apps.",
     "description": "Fonte pessoal do AltStore com meus IPAs.",
-    "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.png",
-    "headerURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.png",
+    "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.ico",
+    "headerURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.ico",
     "website": "https://github.com/familiafd2015-bot/meus-ipas",
     "tintColor": "#E74C3C",
     "featuredApps": [
@@ -17,7 +17,7 @@
             "developerName": "Studio MDHR",
             "subtitle": "Cuphead para iOS",
             "localizedDescription": "Cuphead é um jogo de ação clássico estilo run and gun, focado em batalhas contra chefes. Inspirado nos desenhos animados dos anos 1930, o jogo apresenta visuais desenhados à mão, aquarelas e trilha sonora de jazz original.",
-            "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.png",
+            "iconURL": "https://raw.githubusercontent.com/familiafd2015-bot/meus-ipas/main/icons/cuphead.ico",
             "tintColor": "#E74C3C",
             "category": "games",
             "versions": [
@@ -26,7 +26,7 @@
                     "buildVersion": "1",
                     "date": "2026-06-21T22:00:00-03:00",
                     "localizedDescription": "Versão inicial.",
-                    "downloadURL": "https://drive.google.com/uc?export=download&confirm=1&id=15hcwh9NYOfVnADjaKK2QZMX2GOqP6kON",
+                    "downloadURL": "https://drive.google.com/uc?export=download&id=15hcwh9NYOfVnADjaKK2QZMX2GOqP6kON",
                     "size": 2229713904,
                     "minOSVersion": "15.0"
                 }
